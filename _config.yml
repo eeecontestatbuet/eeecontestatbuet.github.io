@@ -1,0 +1,11 @@
+# Site settings
+title: Contests at Department of EEE. BUET
+email: eeedaymatlabcontest@gmail.com
+description: "This a contest website for department of EEE, BUET. The site is managed by students of EEE Dept. "
+baseurl: ""
+url: "http://eeecontestatbuet.github.io"
+github_username:  eeecontestatbuet
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
